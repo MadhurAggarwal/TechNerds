@@ -33,7 +33,3 @@ The dataset is present on **Kaggle** and you can check it out by clicking on thi
 - **Scripting Languages:** HTML, CSS
 - **Packages**: Tensorflow, Scikit-learn, OpenCV, Gunicorn, WTForms, Numpy, Pandas, Joblib, Flask Bootstrap
 - **Backend Framework:** Flask
-- **Cloud Platform**: Heroku
-
-
-  
