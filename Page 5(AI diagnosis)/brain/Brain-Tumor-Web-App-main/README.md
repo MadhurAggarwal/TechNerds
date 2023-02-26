@@ -5,8 +5,7 @@ Brain Tumor Test is a **Deep Learning Web Application** based on a **CNN Archite
 
 It also helps us to distinguish between the *types* of Brain Tumors which could be present. 
 
-![Home Page](https://raw.githubusercontent.com/jaykumar1607/Brain-Tumor-Web-App/main/docs/images/homepage.png)
-![What is brain tumor1](https://raw.githubusercontent.com/jaykumar1607/Brain-Tumor-Web-App/main/docs/images/whatis.png)
+
 
 
 ## 🤖 Under the hood
