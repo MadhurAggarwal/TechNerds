@@ -54,14 +54,6 @@ Store as separate version
 ```bash
   git commit -m 'message'
 ```
-### Deployment on Heroku
-
-Heroku login on git bash
-
-```bash
-  heroku login
-```
-Create new app
 
 ```bash
   heroku create
