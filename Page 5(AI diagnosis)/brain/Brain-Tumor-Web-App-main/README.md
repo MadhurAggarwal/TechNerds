@@ -12,8 +12,7 @@ It also helps us to distinguish between the *types* of Brain Tumors which could 
 
 Brain Tumor Test uses the concept of **Transfer Learning** which enables us to use the *weights and biases* of some of the famous CNN architectures which ***decreases the amount of computational time significantly.***
 
-I've used the **EfficientNetB0** architecture for this task.
-To understand how the model was made more clearly, I would recommend you to visit my Kaggle Notebook [here](https://www.kaggle.com/jaykumar1607/brain-tumor-mri-classification-tensorflow-cnn)
+
 
 ## 📊 Dataset
 
