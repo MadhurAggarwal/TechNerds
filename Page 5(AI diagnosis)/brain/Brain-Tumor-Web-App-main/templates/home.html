@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<center><img src="../static/brain_logo.png" class="img-fluid" alt="logo">
+<br/>
+<figure class="text-center">
+  <blockquote class="blockquote">
+    <p class='lead'>The human brain is probably one of the most complex single<br> objects on the face of the earth; I think it is, quite honestly.</p>
+  </blockquote>
+  <br>
+  <figcaption class="blockquote-footer">
+    <cite title="Source Title">Bill Viola</cite>
+  </figcaption>
+</figure>
+  <br/>
+  <form  method="POST" enctype="multipart/form-data"><center>
+      {# This hidden_tag is a CSRF security feature. #}
+      {{ form.hidden_tag() }}
+
+      {{form.image}}
+      <br/>
+      <br/>
+      {{form.submit}}
+      <br/>
+  </form>
+<br/>
+<br/>
+<br/>
+<br/>
+<footer>
+<center>Made with ❤️ by Team TechNerds
+</footer>
+{% endblock %}
