@@ -8,14 +8,6 @@ It also helps us to distinguish between the *types* of Brain Tumors which could 
 ![Home Page](https://raw.githubusercontent.com/jaykumar1607/Brain-Tumor-Web-App/main/docs/images/homepage.png)
 ![What is brain tumor1](https://raw.githubusercontent.com/jaykumar1607/Brain-Tumor-Web-App/main/docs/images/whatis.png)
 
-## 🎥 Demo
-This demo shows how you will input the data and based on that, the predicted result is provided to you along with some knowledge about the type of tumor you're suffering from.
-
-<div>
-    <center><img src="https://raw.githubusercontent.com/jaykumar1607/Brain-Tumor-Web-App/main/demo/demo.gif"></center>
-</div>
-
-
 
 ## 🤖 Under the hood
 
@@ -45,12 +37,5 @@ The dataset is present on **Kaggle** and you can check it out by clicking on thi
 - **Backend Framework:** Flask
 - **Cloud Platform**: Heroku
 
-## 🌐 Deployment
 
-I've used **Heroku** as the preferred platform to deploy my web application.
-
-  
-## 👨‍💻 Contributors
-
-- [Jay Kumar](https://github.com/jaykumar1607)
   
